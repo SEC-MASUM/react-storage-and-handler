@@ -10,7 +10,7 @@ const Shoes = () => {
     <div>
       <h3>This is Shoes Component</h3>
       <p>
-        Result: {result} and Total: {sum}{" "}
+        Result: {result} and Total: {sum}
       </p>
     </div>
   );
